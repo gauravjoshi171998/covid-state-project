@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/covid-state/project/static/css/main.08ce08dc.css",
-    "main.js": "/covid-state/project/static/js/main.4086b519.js",
-    "static/js/787.deb5afa4.chunk.js": "/covid-state/project/static/js/787.deb5afa4.chunk.js",
-    "index.html": "/covid-state/project/index.html",
-    "main.08ce08dc.css.map": "/covid-state/project/static/css/main.08ce08dc.css.map",
-    "main.4086b519.js.map": "/covid-state/project/static/js/main.4086b519.js.map",
-    "787.deb5afa4.chunk.js.map": "/covid-state/project/static/js/787.deb5afa4.chunk.js.map"
+    "main.css": "/covid-state/static/css/main.08ce08dc.css",
+    "main.js": "/covid-state/static/js/main.db39a524.js",
+    "static/js/787.deb5afa4.chunk.js": "/covid-state/static/js/787.deb5afa4.chunk.js",
+    "index.html": "/covid-state/index.html",
+    "main.08ce08dc.css.map": "/covid-state/static/css/main.08ce08dc.css.map",
+    "main.db39a524.js.map": "/covid-state/static/js/main.db39a524.js.map",
+    "787.deb5afa4.chunk.js.map": "/covid-state/static/js/787.deb5afa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08ce08dc.css",
-    "static/js/main.4086b519.js"
+    "static/js/main.db39a524.js"
   ]
 }
